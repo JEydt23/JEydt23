@@ -19,9 +19,8 @@ Hi! My name is Jeff and welcome to my GitHub profile!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.4
-
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEydt23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
