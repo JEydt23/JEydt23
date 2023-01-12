@@ -22,3 +22,6 @@ Hi! My name is Jeff and welcome to my GitHub profile!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEydt23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEydt23&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/jeff-eydt-a5b86b9b/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/jeff-eydt">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
